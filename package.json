@@ -1,0 +1,24 @@
+{
+  "name": "home-control",
+  "version": "1.0.0",
+  "description": "testing telldus tellstick znet lite v2",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlemagnussen/home-control.git"
+  },
+  "keywords": [
+    "home",
+    "automation",
+    "tellstick"
+  ],
+  "author": "Atle Magnussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlemagnussen/home-control/issues"
+  },
+  "homepage": "https://github.com/atlemagnussen/home-control#readme"
+}
